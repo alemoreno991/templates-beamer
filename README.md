@@ -1,2 +1,3 @@
-# templates-beamer
-This are my personalized templates for slides
+# Personalized slides
+
+- [dark-template](dark/dark-template.pdf)
